@@ -6,4 +6,3 @@ class cl(object):
             a.add(s[1])
         elif(s[4]==')'):
             pass
-//
